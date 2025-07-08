@@ -26,4 +26,4 @@
 用户互动与社区分享
 本站还设有评论区与评分系统，让用户可以对影片进行评分，分享观看心得。通过与其他影迷的互动，你可以发现更多优质影片和资源，同时提高整体的观影体验。我们的社区氛围轻松、自由，欢迎每一位影迷加入讨论、交流和分享。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/syx143/2589 ）</span>
